@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/gist/camdengrieh/9a62174a080ead34271ff5d187a24343/raw/02cad2900f4cedb87895cc57729030e095d2869f/gh_banner.svg" align="right" width="350">
+ <img src="https://user-images.githubusercontent.com/82294478/142774471-26598744-8497-420c-a4db-4e4fabb9795c.png" align="right" width="350">
 	<h1 align="left">RIPs - Rugenerous Improvement Proposals Generator </h1>
  <h3 align="center"> </h3>
  <p align="center">
@@ -36,10 +36,6 @@
 `$ npm i generator-rip -g` <br>
 `$ yo rip`
 
-## Demo
-
-[![asciicast](https://asciinema.org/a/369942.svg)](https://asciinema.org/a/369942)
-
 ## Abstract
 
 The Rugenerous Improvement Proposals (`RIP`s) describe standards for the Rugenerous platform, including core protocol specifications, client APIs, and contract standards. This is the definitive, `cannonical` reference specification for the core logic.
@@ -48,7 +44,7 @@ The Rugenerous Improvement Proposals (`RIP`s) describe standards for the Rugener
 
 `RIP` generator is a Yeoman generator to kickstart your Rugenerous Improvement Proposal, like strategies.
 
-## What is an RIP?
+## What is a RIP?
 
 RIP stands for Rugenerous Improvement Proposal, it has been adapted from the SIP (Synthetix Improvement Proposal). The purpose of this process is to ensure changes to Rugenerous are transparent and well governed. An RIP is a design document providing information to the Rugenerous community about a proposed change to the system. The author is responsible for building consensus within the community and documenting dissenting opinions.
 
